@@ -425,7 +425,7 @@
                               "shouldTruncate": false,
                               "borderWidth": "",
                               "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-                              "text": "Don't hava an account?",
+                              "text": "Don't have an account?",
                               "key": "py9ikqyxeu",
                               "isDeprecated": false,
                               "rightColumn": 44,
