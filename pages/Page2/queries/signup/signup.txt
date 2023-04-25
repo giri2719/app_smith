@@ -1,0 +1,4 @@
+{
+username:{{emailSignUp.text}},
+password:{{Input1.text}}
+}

@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "signUpObj",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page2_signUpObj",
+  "deleted": false,
+  "gitSyncId": "643fa21db49c43309577cc46_6446713a8c9de52d80df66c2"
+}

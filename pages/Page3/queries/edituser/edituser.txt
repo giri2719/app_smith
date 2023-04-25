@@ -1,0 +1,4 @@
+{
+	username:{{Input2.text}},
+	id:{{Input3.text}}
+}
